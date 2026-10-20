@@ -1,0 +1,9 @@
+# Never commit exports of guest responses or private credentials
+*.csv
+*.xlsx
+.env
+.env.*
+guest-list*
+rsvp-export*
+.DS_Store
+Thumbs.db
